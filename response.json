@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Live of the Python",
+        "local": "https://greatevents.com/events?id=1"
+    },
+    {
+        "id": 2,
+        "name": "Live of the Javascript",
+        "local": "https://greatevents.com/events?id=2"
+    },
+    {
+        "id": 3,
+        "name": "Live of the Go",
+        "local": "https://greatevents.com/events?id=3"
+    },
+    {
+        "id": 4,
+        "name": "Python Class",
+        "local": "Rio de Janeiro"
+    }
+]
